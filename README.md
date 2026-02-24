@@ -9,8 +9,11 @@ Eh creado varios proyectos un poco de todo y aprendiendo más lenguajes
 HERRAMIENTAS y TECNOLOGIAS
 
 👉 JavaScript, HTML, PHP, SQL
+
 👉 GIT
+
 👉 VS Code
+
 --------------------------------------------------------------------------------
 ABOUT ME
 
