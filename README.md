@@ -15,8 +15,11 @@ HERRAMIENTAS y TECNOLOGIAS
 ABOUT ME
 
 🐱 Me encantan los gatos
+
 ☕ Me encanta el café
+
 👒 AMO One piece
+
 🔥 Me gusta crear cosas simples, pero utiles y faciles de entender
 
 <!--s
